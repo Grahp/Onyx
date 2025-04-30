@@ -1,0 +1,6 @@
+{
+"#PLIEGS": "{plover:add_translation}",
+"*-LFP": "{#shift(tab)}",
+"-RL": "{#Escape}",
+"-LFP": "{#Tab}"
+}
